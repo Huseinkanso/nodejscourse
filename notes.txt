@@ -1,0 +1,16 @@
+1)nodejs is asynchronos ==> evrything can execute asynchronosly that mean dont need to wait to start executing
+2)nodejs work on single thread (1 work at a time)
+3)browser js vs node js 
+--- browser--------- node 
+    dom          -   no dom
+    window       -   no window
+interactive apps -   no interactive apps
+no filesystem(code inside browser executed)      -   in server so has filesystem 
+es6 modules      -  commonjs 
+
+
+
+4)to run 
+
+    
+
